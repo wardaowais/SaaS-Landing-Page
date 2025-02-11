@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://jptribe-landing-sass.vercel.app
+
+# Sitemaps
+Sitemap: https://jptribe-landing-sass.vercel.app/sitemap.xml
